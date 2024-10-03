@@ -1,3 +1,19 @@
+/tmalign/TMalign
+/gromacs/gromacs-2024.2
+/gromacs/charmm36-jul2022.ff
+
+/data/*/raw
+/data/*/featurized
+
+/notebooks/tmp.ipynb
+/notebooks/HM
+/notebooks/PHYLO/3Di
+/notebooks/PHYLO/pdbs.zip
+
+/figures
+
+#######################################################################################################################
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
