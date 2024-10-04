@@ -1,13 +1,24 @@
 # Title
 
-## Generated Structures
+## Protein Structures Data
+
+```
+BLDB:   Beta-lactamases
+CYTC:   Cytochrom c
+GFP:    GFP
+Ras:    Ras GTPase
+```
+
+Metadata of protein structures used for training can be found in `/data/*.csv`.
+
+### Generated Structures
 
 ```
 B:      Backbone only
 BQ:     Backbone + Optimal predicted sequences
 BQS:    Backbone + Optimal preidcted sequences + homology modeled side-chains
 BQSH:   Backbone + Optimal preidcted sequences + homology modeled side-chains + hydrogen atoms added
-C:      Conserved residues.
+C:      Conserved residues
 Q:      Optimal predicted sequences
 ```
 
