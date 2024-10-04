@@ -1,11 +1,22 @@
-# PROTEVAL
+# Title
+
+## Generated Structures
+
+```
+B:      Backbone only
+BQ:     Backbone + Optimal predicted sequences
+BQS:    Backbone + Optimal preidcted sequences + homology modeled side-chains
+BQSH:   Backbone + Optimal preidcted sequences + homology modeled side-chains + hydrogen atoms added
+C:      Conserved residues.
+Q:      Optimal predicted sequences
+```
 
 ## Dependencies
 
 ### Python Packages
 
 ```
-
+TODO
 ```
 
 ### TM-align
