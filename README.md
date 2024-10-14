@@ -134,3 +134,5 @@ conda install salilab::modeller
 ```
 conda install bioconda::emboss
 ```
+
+conda install bioconda::mgltools

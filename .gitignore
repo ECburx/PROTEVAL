@@ -163,6 +163,8 @@ cython_debug/
 
 ## USER ADDED ##
 
+.idea
+
 /tmalign/TMalign
 /gromacs/gromacs-2024.2
 /gromacs/charmm36-jul2022.ff
@@ -171,6 +173,14 @@ cython_debug/
 /data/*/featurized
 /data/*/processed
 
+/notebooks/side-chain-modelng/wd
+/notebooks/dynamics/wd-md1/*/*/*
+!notebooks/dynamics/wd-md1/*/*/DSSP.xvg
+!notebooks/dynamics/wd-md1/*/*/RG.xvg
+!notebooks/dynamics/wd-md1/*/*/RMSD.xvg
+!notebooks/dynamics/wd-md1/*/*/RMSF.xvg
+!notebooks/dynamics/wd-md1/*/*/*potential_energy.xvg
+/notebooks/dynamics/wd-md2
 /notebooks/docking/wd/*/*.png
 !notebooks/docking/wd/*/*/*.log
 
