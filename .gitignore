@@ -172,6 +172,7 @@ cython_debug/
 /data/*/raw
 /data/*/featurized
 /data/*/processed
+/data/*/generated/viz
 
 /notebooks/side-chain-modelng/wd
 /notebooks/dynamics/wd-md1/*/*/*
@@ -183,5 +184,23 @@ cython_debug/
 /notebooks/dynamics/wd-md2
 /notebooks/docking/wd/*/*.png
 !notebooks/docking/wd/*/*/*.log
+/notebooks/phylogeny/wd/pdbs.zip
+/notebooks/phylogeny/wd/3Di
+
+/notebooks/dynamics/wd-md1/BLDB/1A7T_A
+/notebooks/dynamics/wd-md1/BLDB/1GHP_A
+/notebooks/dynamics/wd-md1/BLDB/2A3U_A
+/notebooks/dynamics/wd-md1/BLDB/3B3X_A
+/notebooks/dynamics/wd-md1/BLDB/7TBX_B
+/notebooks/dynamics/wd-md1/CYTC/1HRC_A
+/notebooks/dynamics/wd-md1/CYTC/1YTC_A
+/notebooks/dynamics/wd-md1/CYTC/2YK3_A
+/notebooks/dynamics/wd-md1/CYTC/4DY9_A
+/notebooks/dynamics/wd-md1/CYTC/8GTH_B
+/notebooks/dynamics/wd-md1/GFP/1B9C_A
+/notebooks/dynamics/wd-md1/GFP/2H9W_A
+/notebooks/dynamics/wd-md1/GFP/3W1C_A
+/notebooks/dynamics/wd-md1/RAS/2C5L_A
+/notebooks/dynamics/wd-md1/RAS/2CL0_X
 
 /figures
