@@ -27,7 +27,7 @@ def qscore(pdb1, pdb2, r0: int = 4) -> float:
     return q_length * q_shape
 
 
-def tmalign(pdb1_path: str, pdb2_path: str, tmalign_path: str = "../tmalign/TMalign") -> dict:
+def tmalign(pdb1_path: str, pdb2_path: str, tmalign_path: str = "../../tmalign/TMalign") -> dict:
     """
     Wrapper of TMalign.
     :return:
